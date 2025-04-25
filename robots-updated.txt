@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sajanius.github.io/ZEUS-VS-HADES/sitemap.xml
